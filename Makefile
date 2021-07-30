@@ -1,5 +1,5 @@
 PKG_NAME := charset-normalizer
-URL = https://files.pythonhosted.org/packages/37/fd/05a04d7e14548474d30d90ad0db5d90ee2ba55cd967511a354cf88b534f1/charset-normalizer-2.0.3.tar.gz
+URL = https://files.pythonhosted.org/packages/e7/4e/2af0238001648ded297fb54ceb425ca26faa15b341b4fac5371d3938666e/charset-normalizer-2.0.4.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common

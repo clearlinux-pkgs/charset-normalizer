@@ -4,7 +4,7 @@
 #
 Name     : charset-normalizer
 Version  : 2.0.7
-Release  : 9
+Release  : 10
 URL      : https://files.pythonhosted.org/packages/9f/c5/334c019f92c26e59637bb42bd14a190428874b2b2de75a355da394cf16c1/charset-normalizer-2.0.7.tar.gz
 Source0  : https://files.pythonhosted.org/packages/9f/c5/334c019f92c26e59637bb42bd14a190428874b2b2de75a355da394cf16c1/charset-normalizer-2.0.7.tar.gz
 Summary  : The Real First Universal Charset Detector. Open, modern and actively maintained alternative to Chardet.
@@ -66,7 +66,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1634003833
+export SOURCE_DATE_EPOCH=1635710578
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
